@@ -1,1 +1,7 @@
 # news
+
+{title}Тайтл новости{/title}
+{date}12.04.2016{/date}
+{description}Короткое описание новости{/description}
+{image}Картинка{/image}
+{isindex}1{/isindex}
