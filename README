@@ -2,6 +2,8 @@
 
 {title}Тайтл новости{/title}
 {date}12.04.2016{/date}
-{description}Короткое описание новости{/description}
+{desc}Короткое описание новости{/desc}
 {image}Картинка{/image}
 {isindex}1{/isindex}
+
+Писать все в одну строку
