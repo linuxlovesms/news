@@ -3,7 +3,7 @@
 {title}Тайтл новости{/title}
 {date}12.04.2016{/date}
 {desc}Короткое описание новости{/desc}
-{image}Картинка (max. 640*200){/image}
+{image}URL для картинки (max. 640*200){/image}
 {isindex}1{/isindex}
 
 Писать все в одну строку
