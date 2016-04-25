@@ -1,9 +1,9 @@
 # news
 
-{title}Тайтл новости{/title}
+{title}Заголовок новости{/title}
 {date}12.04.2016{/date}
 {desc}Короткое описание новости{/desc}
 {image}URL для картинки (max. 640*200){/image}
-{isindex}1{/isindex}
+{isindex}1{/isindex} 1 - выводим на главной, 0 - не выводим.
 
 Писать все в одну строку
